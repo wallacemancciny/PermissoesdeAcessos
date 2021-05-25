@@ -12,7 +12,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS]
 
 <h1 align="center">
-    <img alt="" width="500" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/CriarPerfil.PNG" />
+    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/CriarPerfil.PNG" />
+</h1>
+<hr>
+<h1 align="center">
+    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/FuncionalidadeList.png" />
 </h1>
 
 <h3 align="center">
