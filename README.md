@@ -11,6 +11,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [SQL Queryes]
 - [CSS]
 
+
+------------
+
+
+<p align="center">**Contato e Whatsapp:** 55 21 96988-8004</p>
+<p align="center">**Email:** wallace.s.pimenta@gmail.com</p>
+
+------------
+
+
+
 <h1 align="center">
     <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/CriarPerfil.PNG" />
 </h1>
@@ -51,6 +62,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <h3 align="center">
   Desenvolvido com OutSystems - V.11
-    <span>Contato ou WhatsApp:<span/>5521 96988-8004
-    <span>Email:<span/> wallace.s.pimenta@gmail.com
 </h3>
