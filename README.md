@@ -12,18 +12,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS]
 
 <h1 align="center">
-    <img alt="" width="500" src="https://github.com/wallacemancciny/MeuPortfolioOutSystems/blob/main/home.png" />
-</h1>
-
-<h1 align="center">
-    <img alt="" width="500" src="https://github.com/wallacemancciny/MeuPortfolioOutSystems/blob/main/Lista%20de%20Projetos.png" />
-</h1>
-
-<h1 align="center">
-   <img alt="" width="500" src="https://github.com/wallacemancciny/MeuPortfolioOutSystems/blob/main/Cad%20Profissional.png" />
+    <img alt="" width="500" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/CriarPerfil.PNG" />
 </h1>
 
 <h3 align="center">
   Desenvolvido com OutSystems - V.11
 </h3>
-
