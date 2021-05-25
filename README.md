@@ -51,4 +51,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <h3 align="center">
   Desenvolvido com OutSystems - V.11
+    <span>Contato ou WhatsApp:<span/>5521 96988-8004
+    <span>Email:<span/> wallace.s.pimenta@gmail.com
 </h3>
