@@ -34,6 +34,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h1 align="center">
     <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/TelaUsuarioRecebePerfil.PNG" />
 </h1>
+<h1 align="center">
+    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/TelaUsuarioAcessandoComSeuPerfil.PNG" />
+</h1>
 
 <h3 align="center">
   Desenvolvido com OutSystems - V.11
