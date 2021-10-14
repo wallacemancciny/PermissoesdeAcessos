@@ -1,5 +1,6 @@
 <h1 align="center">Micro Projeto - Permissões de Acessos em Outsystems</h1>
-<p align="center">Projeto que mostra o permissionamento de acessos entre funcionalidades, modulos e perfis. As funcionalidades são cadastradas de acordo com seus respectivos módulos e os perfil recebem as permissões para gerenciar as funcionalidades incluídas nos módulos pertencentes.</p>
+<p align="center">Projeto feito para gerenciar o permissionamento de acessos entre os usuários logados de acordo com cada perfil criado. O permissionamento funciona da seguinte forma: O “perfil” é o responsável por descrever a função do usuário. “Módulos” são as áreas que o usuário vai poder acessar ou não de acordo com o seu perfil. “Funcionalidade” são as ações que o usuário logado vai poder usar para trabalhar dentro de cada módulo. “Acesso” é o responsável por manter os permissionamentos de acordo com cada perfil, nele o usuário administrador pode marcar as ações como “Incluir, Alterar, Excluir, Visualizar, Permitir acesso”.
+</p>
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
