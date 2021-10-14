@@ -32,34 +32,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </h1>
 
 <h1 align="center">
-    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/LogandoPerfil.PNG" />
+    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/TelaUsuarioRecebePerfil.PNG" />
 </h1>
-<h1 align="center">
-    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/ModuloList.PNG
-" />
-</h1>
-<h1 align="center">
-    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/PerfilCriadoProximo.PNG" />
-</h1>
-<h1 align="center">
-    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/PerfilList.PNG" />
-</h1>
-<h1 align="center">
-    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/PerfilPermissionamento.PNG" />
-</h1><h1 align="center">
-    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/PerfilPermissionamento.PNG" />
-</h1>
-</h1><h1 align="center">
-    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/PermissaoSucesso.PNG" />
-</h1>
-</h1><h1 align="center">
-    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/Permiss%C3%A3oFalha.PNG" />
-
-</h1><h1 align="center">
-    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/TestedeAcessoListaFuncionalidades.PNG" />
-</h1>
-
-
 
 <h3 align="center">
   Desenvolvido com OutSystems - V.11
