@@ -28,7 +28,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </h1>
 
 <h1 align="center">
-    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/FuncionalidadeList.png" />
+    <img alt="" width="800" src="https://github.com/wallacemancciny/PermissoesdeAcessos/blob/main/TelaPerfils.PNG" />
 </h1>
 
 <h1 align="center">
